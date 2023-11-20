@@ -2,7 +2,7 @@
 
 Bienvenido al Proyecto Final C.E. Big Data Analytics y Visualización de Datos (La Salle-Universidad Ramón Llull). 
 
-Este trabajo final consiste en desarrollar una idea utilizando el IA Model Canvas y se enfoca en el análisis del mercado inmobiliario en Barcelona. Utilizando datos proporcionados por Open Data Barcelona, he recopilado un extenso conjunto de datos trimestrales desde 2018 hasta 2022. 
+Este trabajo final consiste en desarrollar una idea utilizando el IA Model Canvas y se enfoca en el análisis del mercado inmobiliario en Barcelona. Utilizando datos proporcionados por Open Data Barcelona(https://opendata-ajuntament.barcelona.cat/es/), he recopilado un extenso conjunto de datos trimestrales desde 2018 hasta 2022. 
 
 Este conjunto incluye información vital, como el número de fincas catastrales según el régimen de propiedad, la compraventa de viviendas registradas por superficie media, el precio de compraventa de viviendas y el precio medio de venta por metro cuadrado de viviendas en la ciudad.
 
